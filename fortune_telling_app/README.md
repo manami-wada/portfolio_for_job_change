@@ -1,1 +1,0 @@
-# fortune_telling_app
